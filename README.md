@@ -20,6 +20,11 @@ Testing – Identifying and fixing bugs.
 Deployment – Releasing the software for user access.
 Maintenance – Ongoing support and updates.
 
+4.
+The Waterfall methodology follows a linear and sequential structure, where each phase must be completed before moving to the next. It is characterized by comprehensive upfront documentation and minimal flexibility in accommodating changes. Feedback in this model is typically gathered late in the process, making it more suitable for projects with well-defined requirements, such as government initiatives or large-scale infrastructure projects.
+On the other hand, the Agile methodology is iterative and highly flexible, allowing for continuous improvements and adaptability. Agile promotes minimal initial documentation with ongoing updates, and feedback is incorporated throughout the development process. This makes it well-suited for projects that require frequent changes and stakeholder collaboration, such as startup applications and software with evolving requirements.
+
+
 5.
 Software Developer: Writes and maintains code, implements algorithms, and collaborates on system architecture.
 Quality Assurance (QA) Engineer: Tests software for defects, ensures compliance with standards, and automates testing.
